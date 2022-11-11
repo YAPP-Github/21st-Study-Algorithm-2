@@ -4,7 +4,7 @@
   <table style="font-weight : bold">
       <tr>
           <td align="center">
-              <a href="https://github.com/znftm97">                 
+              <a href="https://github.com/EvergreenTree97">                 
                   <img alt="최상록" src="https://avatars.githubusercontent.com/EvergreenTree97" width="80" />            
               </a>
           </td>
@@ -14,12 +14,12 @@
               </a>
           </td>
           <td align="center">
-              <a href="https://github.com/yjyoon-dev">                 
+              <a href="https://github.com/ashwon12">                 
                   <img alt="김재원" src="https://avatars.githubusercontent.com/ashwon12" width="80" />            
               </a>
           </td>
           <td align="center">
-              <a href="https://github.com/NaLDo627">                 
+              <a href="https://github.com/hanchang97">                 
                   <img alt="한창희" src="https://avatars.githubusercontent.com/hanchang97" width="80" />            
               </a>
           </td>
