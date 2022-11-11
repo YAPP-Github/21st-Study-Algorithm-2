@@ -1,4 +1,4 @@
-# :books: YAPP 20기 알고리즘 스터디 (2팀)
+# :books: YAPP 21기 알고리즘 스터디 (2팀)
 
 <div align="center">
   <table style="font-weight : bold">
